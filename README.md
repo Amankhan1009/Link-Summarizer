@@ -26,8 +26,8 @@ Users can paste a URL and instantly get a concise summary of the content.
 ---
 
 ## 📁 Project Structure
-├── app.py # Main Streamlit application \b 
-├── requirements.txt # Project dependencies \b
+├── app.py # Main Streamlit application <br>
+├── requirements.txt # Project dependencies <br>
 └── README.md # Project documentation
 
 
